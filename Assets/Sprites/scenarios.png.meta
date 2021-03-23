@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 5b20a2360dd2fec45b5f71c80dc2ebf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7822020813879957204
+    second: scenarios_0
+  - first:
+      213: 3853481294775341560
+    second: scenarios_1
+  - first:
+      213: -6356497945375279627
+    second: scenarios_2
+  - first:
+      213: 3024109198185248679
+    second: scenarios_3
+  - first:
+      213: -2577137893220706475
+    second: scenarios_4
+  - first:
+      213: 3302211249643038197
+    second: scenarios_5
+  - first:
+      213: 7072036147177521029
+    second: scenarios_6
+  - first:
+      213: 4863162882392377661
+    second: scenarios_7
+  - first:
+      213: -4659973070827625114
+    second: scenarios_8
+  - first:
+      213: -4307730312337777218
+    second: scenarios_9
+  - first:
+      213: 945259978980501693
+    second: scenarios_10
+  - first:
+      213: -6618202454408606843
+    second: scenarios_11
+  - first:
+      213: 5394043900155134564
+    second: scenarios_12
+  - first:
+      213: -1030809984881448179
+    second: scenarios_13
+  - first:
+      213: -7654609755426389542
+    second: scenarios_14
+  - first:
+      213: -3351784403885938109
+    second: scenarios_15
+  - first:
+      213: -6079880983819658118
+    second: scenarios_16
+  - first:
+      213: -6191239809431813563
+    second: scenarios_17
+  - first:
+      213: -7640823679454663229
+    second: scenarios_18
+  - first:
+      213: -247125167821731841
+    second: scenarios_19
+  - first:
+      213: 4506504616425844530
+    second: scenarios_20
+  - first:
+      213: 8574517506961593015
+    second: scenarios_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scenarios_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6395
+        width: 1280
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46b6c1b654c8f24c85e9953183bb702
+      internalID: 7822020813879957204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 6237
+        width: 289
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327b0426f8b46b04f88cfe4c9028e9e9
+      internalID: 3853481294775341560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_2
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 6076
+        width: 289
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569cea88e89269b40947e72567777c10
+      internalID: -6356497945375279627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 6017
+        width: 247
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09dbc53e5cfd1e43827e63540f8c91d
+      internalID: 3024109198185248679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6096
+        width: 90
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca706b81d285d64aa584aa3edf4a2cc
+      internalID: -2577137893220706475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5835
+        width: 430
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9a283e055d92409e1b12b3b8d4090
+      internalID: 3302211249643038197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 5797
+        width: 268
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21cf10ba2e26874da9878ccd46d109b
+      internalID: 7072036147177521029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_7
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 5876
+        width: 168
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7813b07a3e0fe894c8553fe4536e5abd
+      internalID: 4863162882392377661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5478
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4294a108f63c4b040b120cc8a736fa3f
+      internalID: -4659973070827625114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 5436
+        width: 89
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a7b51d87a65c245a37d75c2e0c9bd1
+      internalID: -4307730312337777218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 5395
+        width: 69
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8737dcaf560a97247afbd9bbf4f09ead
+      internalID: 945259978980501693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_11
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 5436
+        width: 89
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f9e502367504e468180fb900c51767
+      internalID: -6618202454408606843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5258
+        width: 447
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7d696b326bef24aa46da4e06811d16
+      internalID: 5394043900155134564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_13
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 5216
+        width: 426
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98d7182ea14fa14088ee8170eeeb2fb
+      internalID: -1030809984881448179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4677
+        width: 1280
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb8d9371b7e4d14da4fd3656971e414
+      internalID: -7654609755426389542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 4037
+        width: 846
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efd326bac790b34ebea9655fdff2ea7
+      internalID: -3351784403885938109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_16
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3395
+        width: 271
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1014dcc704ad54ca3f22703773bbdf
+      internalID: -6079880983819658118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_17
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2755
+        width: 252
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e65d27fecb22e644b3281c37b93247d
+      internalID: -6191239809431813563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2136
+        width: 492
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff852910f109b74cb8e1975d71ec091
+      internalID: -7640823679454663229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_19
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1497
+        width: 492
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd56323cb250c61469a5891dda35de79
+      internalID: -247125167821731841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 717
+        width: 471
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368f7c23b6440a244af58323eb024bf3
+      internalID: 4506504616425844530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scenarios_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1280
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2acb8e269abd1542aee3600f2115955
+      internalID: 8574517506961593015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
